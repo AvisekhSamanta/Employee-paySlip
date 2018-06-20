@@ -1,0 +1,36 @@
+{
+  "name": "employee-payslip",
+  "version": "0.0.2",
+  "description": "A React/Next.js test task for Starlight Group",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AvisekhSamanta/Employee_paySlip_generate.git"
+  },
+  "keywords": [
+    "react",
+    "next.js",
+    "application",
+    "test-task"
+  ],
+  "author": {
+    "name": "Avisekh Samanta",
+    "email": "look4avisekh@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-css": "^0.2.0",
+    "moment": "^2.22.2",
+    "next": "^6.0.3",
+    "react": "^16.4.0",
+    "react-datepicker": "^1.5.0",
+    "react-dom": "^16.4.0",
+    "react-form": "^3.5.5"
+  }
+}

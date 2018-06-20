@@ -1,0 +1,12 @@
+body {
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.app {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.app_topSection {
+    margin-bottom: 1em;
+}
